@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    width: 90vw;
+    height: 6vh;
+    background-color: rgba(6, 6, 6, 0.874);
+    border-radius: 50px;
+    padding: 10px;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px;
+}
+#nav-logo {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.nav-bar {
+    display: flex;
+    width: 50vh;
+    justify-content: space-around;
+    border-radius: 50px;
+}
