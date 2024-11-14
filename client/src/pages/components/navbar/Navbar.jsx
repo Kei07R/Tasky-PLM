@@ -11,6 +11,7 @@ const Navbar = () => {
         <Button className="nav-button" variant='contained'>Home</Button>
         <Button className="nav-button" variant='contained'>FAQ</Button>
         <Button className="nav-button" variant='contained'>Contact Us</Button>
+        <Button className="nav-button" variant='contained'>My Board</Button>
       </nav>
     </div>
   )

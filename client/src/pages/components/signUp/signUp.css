@@ -1,0 +1,66 @@
+#signUpContainer {
+    display: flex;
+    height: auto;
+    background-color:#002b61;
+    max-width: 100%;
+    padding: 2rem;
+    border: 2px solid gray;
+}
+
+#formDiv {
+    display: flex;
+    flex-direction: column;
+    background-color:  	#93b7b2;
+    width: 20rem;
+    padding: 5px;
+    margin: 15px;
+    align-items: center;
+    height: 40rem;
+    border: 2px solid black;
+    border-radius: 15px;
+}
+
+#buttonGroupSignUp {
+    margin: 15px;
+    border: 1px solid black;
+    padding: 2px;
+}
+
+#formHeader {
+    margin: 10px;
+}
+
+#signUpForm {
+    display: flex;
+    flex-direction: column;
+}
+
+.formFields {
+    display: flex;
+    align-items: center;
+    margin: 5px;
+    padding: 5px;
+}
+
+#submitButton {
+    margin: 5px;
+    width: 14rem;
+}
+
+#loginRedirectButton {
+    margin: 5px;
+    width: 14rem;
+}  
+
+#coolBox {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 40rem;
+    flex-grow: 1;
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: 	#93b7b2;
+    padding: 5px;
+    margin: 15px;
+}

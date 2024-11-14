@@ -1,0 +1,22 @@
+#footerContainer {
+    display: flex;
+    background-color: #002b61;
+    padding: 2rem;
+    max-width: 100%;
+    align-items: center;
+    justify-content: space-around;
+    border: 2px solid grey;
+}
+
+#footerLogo {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+#footerText {
+    display: flex;
+    color: aliceblue;
+    align-items: center;
+}
