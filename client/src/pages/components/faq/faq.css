@@ -1,0 +1,14 @@
+#faqContainer {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 3rem;
+    background-color:#002b61;
+    max-width: 100%;
+    border: 2px solid gray;
+}
+
+#faq {
+    margin-bottom: 10px;
+    color: aliceblue;
+}
